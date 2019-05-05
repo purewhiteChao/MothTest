@@ -135,7 +135,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         initView();
         initData();
         initListener();
-        DisplayMetrics displayMetrics  = new DisplayMetrics();
+        //DisplayMetrics displayMetrics  = new DisplayMetrics();
+        //https://github.com/purewhiteChao/MothTest.git
     }
 
     private void initListener() {
